@@ -1,1 +1,1 @@
-# DotNet Boilerplate
+# EOC Networking Provider
