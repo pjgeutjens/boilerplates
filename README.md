@@ -1,1 +1,1 @@
-# DotNet Boilerplate
+# SQL Users and Rights Pipeline
