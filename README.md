@@ -1,1 +1,1 @@
-# DotNet Boilerplate
+# Golang Boilerplate
