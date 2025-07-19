@@ -1,1 +1,1 @@
-# DotNet Boilerplate
+# SPN Secret Rotation Pipeline
