@@ -1,1 +1,1 @@
-# Azure RM Provider
+# Azure AD Provider
